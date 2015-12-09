@@ -15,6 +15,10 @@
   "bugs": {
     "url": "https://github.com/keybase/bn/issues"
   },
+  "dependencies": {
+    "bigint": "^0.4.2",
+    "bignum": "^0.11.0"
+  }
   "devDependencies": {
     "mocha": "^1.20.1"
   }
